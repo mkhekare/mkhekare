@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there, I’m Mayur Khekare 👋<br>	•	I’m currently working on: Leveraging Python, AI, and ML to develop data-driven solutions and building scalable cloud-based architectures on AWS. I’m also exploring product management strategies and consulting frameworks as part of my MBA.<br>	•	I’m looking to collaborate on: AI/ML research projects, automation tools, and product management initiatives that combine technology and business strategy.<br>	•	I’m looking for help with: Advanced ML algorithms, improving automation frameworks, and enhancing agile project workflows for tech-driven products.<br>	•	I’m currently learning: AI/ML modeling, cloud infrastructure (AWS), advanced Python libraries, and strategic decision-making as part of my MBA program.<br>	•	Ask me about: Data engineering, cloud technologies, product and project management, Agile practices, and consulting approaches for solving complex business challenges.<br>	•	Fun fact: I developed a passion for chess during the pandemic, which has sharpened my strategic thinking and decision-making skills—both in life and in work!
 
+## 🌍 Portfolio
+Check out my work at: [mayurkhekare.netlify.app](https://mayurkhekare.netlify.app/#)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k.mxyur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-khekare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mayurkhekare) 
